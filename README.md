@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# The Venue React JS Project
+
+## Demo
+http://the-venue-json.surge.sh/
 
 ## Available Scripts
 
